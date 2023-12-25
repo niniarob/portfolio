@@ -85,7 +85,7 @@ const Banner = () => {
             variants={fadeIn("down", 0.5)}
             initial="hidden"
             whileInView={"show"}
-            viewport={{ once: false, amount: 0.7 }}
+            // viewport={{ once: false, amount: 0.7 }}
             className="hidden lg:flex flex-1 mx-w-[320px] lg:max-w-[500px]"
           >
             <img className="rounded-full" src={Image} alt="" />
