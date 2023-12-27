@@ -76,7 +76,7 @@ const Banner = () => {
               <a href="#">
                 <FaDribbble />
               </a>
-              <a href="#">
+              <a href="https://github.com/niniarob">
                 <FaGithub />
               </a>
             </motion.div>
